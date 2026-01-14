@@ -1,0 +1,19 @@
+{
+  "name": "claude-galaxy-plugins",
+  "owner": {
+    "name": "Galaxy Project",
+    "email": "galaxy-committers@lists.galaxyproject.org"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Galaxy development",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gx-arch-review",
+      "source": "./plugins/gx-arch-review",
+      "description": "Code review commands for Galaxy codebase contributions",
+      "strict": false
+    }
+  ]
+}
