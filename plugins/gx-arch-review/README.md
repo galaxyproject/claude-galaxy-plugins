@@ -145,6 +145,9 @@ galaxy-plugins/
 │       │   ├── py-review-code-structure.md
 │       │   ├── gx-vitest-review.md
 │       │   └── ...
+│       ├── skills/        # Auto-triggered skills
+│       │   └── galaxy-test-runner/
+│       │       └── SKILL.md
 │       └── README.md
 └── README.md
 ```
