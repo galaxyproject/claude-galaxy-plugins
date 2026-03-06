@@ -14,6 +14,12 @@
       "source": "./plugins/gx-arch-review",
       "description": "Code review commands for Galaxy codebase contributions",
       "strict": false
+    },
+    {
+      "name": "gx-test-runner",
+      "source": "./plugins/gx-test-runner",
+      "description": "Skill for running Galaxy test suites correctly using ./run_tests.sh",
+      "strict": false
     }
   ]
 }
